@@ -89,8 +89,8 @@ Como Executar o Projeto
 O projeto resultou em gráficos informativos que destacam as vendas ao longo do tempo para três lojas específicas da empresa "Contoso".
 As visualizações incluem gráficos de linha e gráficos de séries temporais que fornecem insights sobre os padrões de vendas e o desempenho das lojas.
 
-#Gráficos
-![1 Gráfico no Power Bi](https://imgur.com/e2RC5BM)
+# Gráficos
+[1 Gráfico no Power Bi](https://github.com/GabrielOliveira04/Python-com-Power_Bi/blob/84a7d0f0999c83e0643ad10140c1e4c56a603020/grafico%201.png)
 
 
 ![2 Gráfico no Power Bi](https://imgur.com/OTp5J8d)
